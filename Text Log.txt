@@ -1,3 +1,5 @@
 3:30 - Created this Text Log file, saved, and committed to First Branch
 
+8:19 - adding this on Concurrent File Test Branch
+
 8:20 - Added a line on master branch
